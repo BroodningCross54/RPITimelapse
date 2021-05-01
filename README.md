@@ -1,4 +1,4 @@
-# RPITimelapse
+# rpi-timelapse
 ### Raspberry Pi Python3 long duration timelapse program using pi camera.
 
 The video shows a 180 day timelapse in 46 seconds.
